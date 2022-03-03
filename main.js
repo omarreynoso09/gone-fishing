@@ -18,7 +18,7 @@ let bucket = {
 	totalValue: 0,
 	typeFish: [],
 };
-
+ 
 let fish = [
 	"Pink Tiny luvdisc",
 	"Green Fat Basculin",
